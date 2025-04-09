@@ -1,0 +1,9 @@
+express
+cookies-parser
+mailtrap
+bcryptjs
+dotenv
+jsonwebtoken 
+mongoose
+crypto
+nodemon -D
