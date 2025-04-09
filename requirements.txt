@@ -1,9 +1,9 @@
-express
+express 
 cookies-parser
-mailtrap
+mailtrap 
 bcryptjs
-dotenv
+dotenv 
 jsonwebtoken 
-mongoose
+mongoose 
 crypto
 nodemon -D
